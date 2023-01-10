@@ -2,7 +2,7 @@
 
 Build with webpack 5 using module federation.
 
-Used `npm` for package managment and building
+Used `npm` and `yarn` for package managment and building
 
 ## home microfrontend
 1. Install packages `npm i`
@@ -13,3 +13,8 @@ Used `npm` for package managment and building
 1. Install packages `npm i`
 2. Start the server `npm start`
 3. Page available at `localhost:3001`
+
+## server microservice
+1. Install packages `yarn`
+2. Start the server `yarn start`
+3. Page available at `localhost:8080`
